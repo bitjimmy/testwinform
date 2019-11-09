@@ -1,4 +1,5 @@
 # test win form
+test checkin aUTO BUILD
 
 # DotNetConf2019 DevOps Demo
 This is the demo application used in the .NET Conf 2019 presentation on DevOps for Windows Apps with Azure DevOps and Visual Studio App Center. This application is used to demonstrate a simple and quick Azure DevOps Build Piepline with App Center integration.
